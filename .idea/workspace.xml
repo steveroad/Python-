@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0ac4d5a-f6c4-4c9d-bbb8-077bdd1ab776" name="Default Changelist" comment="Скрипт отображения oc">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 Git/os_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 Git/prob.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 Git/prob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.traning">
     <configuration name="prob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,8 +51,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="traning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Структуры данных" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Структуры данных/traning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.traning" />
         <item itemvalue="Python.prob" />
       </list>
     </recent_temporary>
@@ -74,7 +90,28 @@
       <option name="presentableId" value="Default" />
       <updated>1580450896574</updated>
     </task>
+    <task id="LOCAL-00001" summary="Скрипт отображения oc">
+      <created>1580454591835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580454591835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Скрипт отображения oc" />
@@ -85,37 +122,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="405" y="99" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580451118208" />
-    <state x="498" y="51" key="CommitChangelistDialog2" timestamp="1580454467666">
+    <state x="498" y="51" key="CommitChangelistDialog2" timestamp="1580454698730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="498" y="51" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580454467666" />
-    <state x="642" y="221" key="FileChooserDialogImpl" timestamp="1580454424784">
+    <state x="498" y="51" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580454698730" />
+    <state x="642" y="221" key="FileChooserDialogImpl" timestamp="1580454565469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580454424784" />
-    <state width="1356" height="207" key="GridCell.Tab.0.bottom" timestamp="1580454267509">
+    <state x="642" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580454565469" />
+    <state width="1356" height="207" key="GridCell.Tab.0.bottom" timestamp="1580803896271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580454267509" />
-    <state width="1356" height="207" key="GridCell.Tab.0.center" timestamp="1580454267509">
+    <state width="1356" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580803896271" />
+    <state width="1356" height="207" key="GridCell.Tab.0.center" timestamp="1580803896271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580454267509" />
-    <state width="1356" height="207" key="GridCell.Tab.0.left" timestamp="1580454267509">
+    <state width="1356" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580803896271" />
+    <state width="1356" height="207" key="GridCell.Tab.0.left" timestamp="1580803896271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580454267509" />
-    <state width="1356" height="207" key="GridCell.Tab.0.right" timestamp="1580454267509">
+    <state width="1356" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580803896271" />
+    <state width="1356" height="207" key="GridCell.Tab.0.right" timestamp="1580803896271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580454267509" />
+    <state width="1356" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580803896271" />
     <state x="305" y="81" key="SettingsEditor" timestamp="1580453793769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="305" y="81" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580453793769" />
-    <state x="544" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1580450919187">
+    <state x="405" y="191" key="Vcs.Push.Dialog.v2" timestamp="1580454766982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="544" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580450919187" />
+    <state x="405" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580454766982" />
+    <state x="544" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1580780507815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580780507815" />
   </component>
 </project>
