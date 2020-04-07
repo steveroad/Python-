@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0ac4d5a-f6c4-4c9d-bbb8-077bdd1ab776" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Структуры данных/traning.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Структуры данных/traning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.traning">
     <configuration name="prob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -157,19 +156,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1356" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580810796898" />
-    <state x="305" y="82" key="SettingsEditor" timestamp="1582481382856">
+    <state x="305" y="82" key="SettingsEditor" timestamp="1584342709179">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="305" y="81" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580453793769" />
-    <state x="305" y="82" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582481382856" />
+    <state x="305" y="82" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584342709179" />
     <state x="405" y="191" key="Vcs.Push.Dialog.v2" timestamp="1580810732321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="405" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580810732321" />
-    <state x="544" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1582481255931">
+    <state x="544" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1584342673762">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="544" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580953789706" />
-    <state x="544" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582481255931" />
+    <state x="544" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584342673762" />
   </component>
 </project>
